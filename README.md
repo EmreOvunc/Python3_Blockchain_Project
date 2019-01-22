@@ -1,4 +1,4 @@
-# Python3_Blockchain_Project
+# Blockchain Project
 Blockchain server, mining server and proof-of-work via python power
 
 # Aims and Goals
