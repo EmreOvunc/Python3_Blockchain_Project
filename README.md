@@ -1,6 +1,8 @@
 # Blockchain Project
 Blockchain server, mining server and proof-of-work via python power
 
+![alt tag](https://emreovunc.com/projects/Blockchain-Project.png)
+
 # Aims and Goals
 The purpose of this project is to make an open-source Blockchain project and to learn this technology. This blockchain infrastructure can fit the project you want. The project includes important cryptological issues such as public and private keys and changes, SSL / TLS issues. At the same time, multiprocessing and multithreading issues are mentioned in the mining parts.
 
